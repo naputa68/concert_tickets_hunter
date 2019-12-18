@@ -1,2 +1,2 @@
-# concert_tickets_hunter
-As a concert Lover I want to build a ticket ordering machine to help me buy the most popular concert ticket in HK
+# HSI Futures Open price reminder
+Everyday 09:15 I have to send an email about the HSI futures opening price to colleagues, I want to build automatic email system to for this boring task. 
